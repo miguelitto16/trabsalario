@@ -24,5 +24,5 @@ Esta é uma calculadora simples para determinar o salário de vendedores com bas
 
 ## Autor
 
-Este projeto foi criado por Miguel .
+Este projeto foi criado por Miguel (https://github.com/miguelitto16).
 
